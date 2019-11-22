@@ -12,3 +12,5 @@ This Gaussian filter is less robust for isolating particular frequencies (as it 
 This function also includes a scale factor for physical data. This should be utilized any time the height of an image differs physically from its width (e.g. an image that physically represents a 2 mm x 3 mm area).
 
 Please see function description and examples for a more in-depth explanation and demonstration of its use.
+
+[![View Gaussian filtering for images on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/72795-gaussian-filtering-for-images)
